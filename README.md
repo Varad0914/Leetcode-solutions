@@ -23,6 +23,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0005-longest-palindromic-substring](https://github.com/Varad0914/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Varad0914/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Varad0914/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/Varad0914/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Varad0914/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Varad0914/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0125-valid-palindrome](https://github.com/Varad0914/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
