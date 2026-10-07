@@ -8,15 +8,18 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Varad0914/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Varad0914/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Varad0914/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Varad0914/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Varad0914/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## String
 | Problem Name | Difficulty |
@@ -48,6 +51,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Varad0914/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/Varad0914/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +81,8 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
