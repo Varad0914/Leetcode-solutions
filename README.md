@@ -29,14 +29,17 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0058-length-of-last-word](https://github.com/Varad0914/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Varad0914/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Varad0914/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Varad0914/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Varad0914/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Varad0914/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Varad0914/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Varad0914/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
