@@ -10,6 +10,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0066-plus-one](https://github.com/Varad0914/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0941-valid-mountain-array](https://github.com/Varad0914/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Varad0914/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 | Problem Name | Difficulty |
