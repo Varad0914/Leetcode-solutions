@@ -9,6 +9,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0001-two-sum](https://github.com/Varad0914/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Varad0914/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Varad0914/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
@@ -18,6 +19,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Varad0914/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Varad0914/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
@@ -95,6 +97,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
