@@ -12,6 +12,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varad0914/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Varad0914/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Varad0914/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
@@ -22,6 +23,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varad0914/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
