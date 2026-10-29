@@ -11,6 +11,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/Varad0914/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varad0914/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Varad0914/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
@@ -22,11 +23,13 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0205-isomorphic-strings](https://github.com/Varad0914/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/Varad0914/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varad0914/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Varad0914/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Varad0914/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## String
@@ -111,12 +114,14 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Varad0914/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Varad0914/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Varad0914/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0268-missing-number](https://github.com/Varad0914/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +130,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Varad0914/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0268-missing-number](https://github.com/Varad0914/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
