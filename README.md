@@ -24,6 +24,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Varad0914/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/Varad0914/Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Varad0914/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varad0914/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Binary Search
@@ -42,6 +43,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | [0067-add-binary](https://github.com/Varad0914/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Varad0914/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Varad0914/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/Varad0914/Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/Varad0914/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Varad0914/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Varad0914/Leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
