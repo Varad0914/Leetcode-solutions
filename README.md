@@ -20,6 +20,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Varad0914/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Varad0914/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Varad0914/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -37,6 +38,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Varad0914/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/Varad0914/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Varad0914/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varad0914/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Varad0914/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
@@ -132,6 +134,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Varad0914/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Varad0914/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Varad0914/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/Varad0914/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
