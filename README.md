@@ -7,6 +7,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Varad0914/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Varad0914/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/Varad0914/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Varad0914/Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Varad0914/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -39,6 +40,7 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Varad0914/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Varad0914/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Varad0914/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Varad0914/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varad0914/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Varad0914/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
@@ -167,4 +169,8 @@ My LeetCode solutions in Java | DSA practice for coding interviews
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varad0914/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Varad0914/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
